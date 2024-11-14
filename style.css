@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(196, 233, 255);
+}
+
+h1 {
+    font-family: sans-serif;
+    font-weight: normal;
+    color: #53b7ff;
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: normal;
+    text-align: left;
+    color: #8ACE00;
+}
+
+.navbar {
+    background-color: #a1faa9
+}
+
+.nav-link {
+    color:black;
+
+}
